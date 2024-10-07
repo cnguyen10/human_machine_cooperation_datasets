@@ -12,9 +12,9 @@ The list of datasets can be found as follows:
 
 | Dataset name | Number of samples | Number of classes | Number of annotators | Number of complete annotators |
 |---|---|---|---|---|
-| Chaoyang | 4,021 | 4 | 3 | 3 |
+| [Chaoyang](https://github.com/cnguyen10/human_machine_cooperation_datasets/wiki/Chaoyang) | 4,021 | 4 | 3 | 3 |
 | NIH - CheXray (AO) | 112,120 | 2 | 22 | 1 (2,350) |
-| MiceBone | 7,240 | 3 | 79 | 8 |
+| [MiceBone](https://github.com/cnguyen10/human_machine_cooperation_datasets/wiki/MiceBone) | 7,240 | 3 | 79 | 8 |
 | Turkey | 8,040 | 3 | 81 | 5 |
 
 
